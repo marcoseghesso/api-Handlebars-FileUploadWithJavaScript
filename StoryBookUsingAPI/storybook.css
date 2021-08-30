@@ -36,6 +36,8 @@ body > div {
 
 .control {
     background-color: sandybrown;
+    text-align: center;
+    align-self: flex-end;
 }
 
 #page-left {
